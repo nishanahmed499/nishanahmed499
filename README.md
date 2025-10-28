@@ -47,7 +47,7 @@ def goals():
 
 ### 📬 Connect With Me
 
-[Contacts]([hdn_rahul](https://discord.gg/HsrRCKah))
+[Contacts](https://discord.gg/HsrRCKah)
 
 ---
 
