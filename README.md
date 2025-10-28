@@ -57,7 +57,7 @@ def goals():
 - **C++** – Skilled in low-level programming, DLL injection, emulator memory patching, and reverse engineering.
 - **Web Development** – Proficient in creating responsive UIs with HTML, CSS, and JavaScript. Comfortable building static sites and frontend dashboards.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RealTenzo&theme=radical&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=nishanahmed499&theme=radical&border_radius=10)
 
 ---
 
