@@ -1,62 +1,66 @@
-# 👋 Hi there, I'm Nishan Ahmed  
+````markdown
+Hey, I'm Hdn Rahul! 
 
-🎯 **Full Stack Developer | Open Source Contributor | Tech Enthusiast**
+🚀 About Me
 
-Welcome to my GitHub profile! I’m passionate about building modern, efficient, and scalable applications. I love learning new technologies, collaborating on exciting projects, and sharing my knowledge with the developer community.
 
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on **modern web applications and automation tools**  
-- 🌱 I’m currently learning **Next.js, TypeScript, and DevOps (Docker, CI/CD)**  
-- 💬 Ask me about **JavaScript, React, Node.js, or Python automation**  
-- 👯 I’m looking to collaborate on **open-source projects and innovative startups**  
-- 📫 How to reach me: **[hiddenregedit@gmail.com](mailto:hiddenregedit@gmail.com)**  
-- ⚡ Fun fact: I love solving real-world problems through clean and creative code  
++ Age: 20 | Bangladesh 🇧🇩 
++ Stacks: C#, C++, HTML/CSS/JS 
+! Learning: Python 🐍 | Open to Mentorship!
+````
 
 ---
 
-### 🧠 Tech Stack
+### 🛠 Tech Stack
 
-💻 **Languages:**  
-`JavaScript` | `TypeScript` | `Python` | `C++` | `HTML5` | `CSS3`  
+```csharp
+// C# Developer
+public class HelloWorld {
+    public static void Main() {
+        System.Console.WriteLine("Hello World!");
+    }
+}
+```
 
-⚙️ **Frameworks & Tools:**  
-`React.js` | `Next.js` | `Node.js` | `Express.js` | `MongoDB` | `MySQL` | `TailwindCSS` | `Git & GitHub`  
-
-☁️ **DevOps & Cloud:**  
-`Docker` | `GitHub Actions` | `Firebase` | `Vercel` | `AWS`  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanahmed499&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanahmed499&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://discord.com/users/hdn_rahul" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/nishanahmed499" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+```cpp
+// I Hate C++ (Trust)
+#include <iostream>
+int main() {
+    std::cout << "Nom Nom Nom!\n";
+    return 0;
+}
+```
 
 ---
 
-### 🏆 GitHub Trophies
+### 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishanahmed499&theme=onedark&margin-w=10&margin-h=10" />
-</p>
+```python
+# Python Newbie 
+def goals():
+    print("Learn AI/ML")
+    print("Contribute to Open Source")
+    return "Growing daily!"
+```
 
 ---
 
-⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_  
-— Cory House
+### 📬 Connect With Me
+
+[Contacts](hdn_rahul)
+
+---
+
+### ⚡ GitHub Stats
+
+- **C#** – Experienced in building Windows Forms tools, DLL injectors, authentication systems, and memory editors.
+- **C++** – Skilled in low-level programming, DLL injection, emulator memory patching, and reverse engineering.
+- **Web Development** – Proficient in creating responsive UIs with HTML, CSS, and JavaScript. Comfortable building static sites and frontend dashboards.
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RealTenzo&theme=radical&border_radius=10)
+
+---
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E45E2&center=true&vCenter=true&width=435&lines=DM+me+on+Discord!;Let's+collaborate+%3A)" alt="Typing SVG" />
+</a>
